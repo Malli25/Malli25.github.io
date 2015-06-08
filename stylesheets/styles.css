@@ -314,6 +314,10 @@ a.linkedin {
 	background: url(../images/linkedin-small.png) no-repeat 1px;
 }
 
+a.HackerRank {
+	background: url(../images/Hackerrank-small.png) no-repeat 1px;
+}
+
 
 
 a.buttons:hover {
